@@ -58,8 +58,8 @@ Different images that can be create-
 ```We can combine previously generated images horizontally and vertically using vstack([]) and hstack([]) function of numpy.```
 
 
-![ch.png](/ch.png)
-![cv.png](/cv.png)
+![ch.png](cv.png)
+![cv.png](ch.png)
 
 ### The Task was sucessfully completed!!
 
