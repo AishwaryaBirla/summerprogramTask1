@@ -34,7 +34,10 @@ Then we can make a pattern with different size of circles, using circles functio
 We can also make a gradient pattern, using line function. 
 Experimenting with different colors and thickness can create different images. Like- 
  
-![demo2.png](/demo2.png) ![demo3.png](/demo3.png)
+![demo2.png](/demo2.png)
+
+
+![demo3.png](/demo3.png)
 
 ## Task4.2:
 1. Capture a image,detect a face using the cascade Classifier function of cv2 
@@ -44,6 +47,8 @@ Experimenting with different colors and thickness can create different images. L
 
 ![ccrop.png](/ccrop.png)
 
+
+
 ![crop.png](/crop.png)
 
 
@@ -51,6 +56,8 @@ Experimenting with different colors and thickness can create different images. L
 Different images that can be create- 
 
 ![swap.png](/swap.png)
+
+
 ![swap1.png](/swap1.png)
 
 ## Task4.3:
