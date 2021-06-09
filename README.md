@@ -37,17 +37,19 @@ Experimenting with different colors and thickness can create different images. L
 ![demo2.png](/demo2.png) ![demo3.png](/demo3.png)
 
 ## Task4.2:
-```1. Capture a image,detect a face using the cascade Classifier function of cv2 
+```
+1. Capture a image,detect a face using the cascade Classifier function of cv2 
   (Load the haarcascade_frontface_default.xml to train the model to detect face).
   After the face is detected, draw a rectangle around it and crop that part of the image.
   Display and save the image.
-  ```
+```
 ![ccrop.png](/ccrop.png)
 
 ![crop.png](/crop.png)
 
 
-```2. Load previously generated pictures and swap a part of both. 
+```
+2. Load previously generated pictures and swap a part of both. 
 Different images that can be create- 
 ```
 
@@ -58,8 +60,10 @@ Different images that can be create-
 ```We can combine previously generated images horizontally and vertically using vstack([]) and hstack([]) function of numpy.```
 
 
-![ch.png](cv.png)
-![cv.png](ch.png)
+![ch.png](ch.png)
+
+
+![cv.png](cv.png)
 
 ### The Task was sucessfully completed!!
 
