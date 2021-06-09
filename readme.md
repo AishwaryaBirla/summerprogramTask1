@@ -24,7 +24,7 @@ We can change and use different combinations of the thickness or the colour to c
 Here i created a pattern on small black image. As no of pixel increases, making the pattern takes time. 
 So you can make the pattern on a small image and then enlarge it to see clearly. View and save the image created.
 
-![demo.png](https://github.com/AishwaryaBirla/summerprogramTask4/blob/903c30f8e68d571634f3702697176df159ad79c7/demo.png)
+![demo.png](/demo.png)
 
 
 Then we can make a pattern with different size of circles, using circles function of cv2. 
