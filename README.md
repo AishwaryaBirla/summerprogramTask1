@@ -22,7 +22,7 @@ We can create different types of images from normal math function of using the f
 We can change the thickness of the object or the colour to change up the image.
 Here i created a pattern on small black image. Making the pattern takes time as the no of picxel increases so you can make the pattern on small image then enlarge it to see it clearly. This is saved as ![demo.png] /demo.png
 
-Then we can make a pattern with gifferent size of circles. This is saved as demo1.png
+Then we can make a pattern with gifferent size of circles. This is saved as ![demo1.png] demo1.png
 
 We can also make a gradient pattern, experimenting with different colors. Thses are saved as demo2.png and demo3.png
 
