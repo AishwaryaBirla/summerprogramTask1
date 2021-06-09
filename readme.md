@@ -13,7 +13,7 @@
 # OpenCV
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
 
-Get to know more about openCV- https://opencv.org/about/
+Get to know more about openCV- (https://opencv.org/about/)
 
 I completed the task using cv2 model in python.
 
@@ -24,7 +24,7 @@ We can change and use different combinations of the thickness or the colour to c
 Here i created a pattern on small black image. As no of pixel increases, making the pattern takes time. 
 So you can make the pattern on a small image and then enlarge it to see clearly. View and save the image created.
 
-![demo.png](/demo.png)
+![demoo.png](/demo.png)
 
 
 Then we can make a pattern with different size of circles, using circles function of cv2. 
