@@ -62,7 +62,6 @@ Different images that can be create-
 
 ![ch.png](https://github.com/AishwaryaBirla/summerprogramTask4/blob/main/ch.png)
 
-
 ![cv.png](https://github.com/AishwaryaBirla/summerprogramTask4/blob/main/cv.png)
 
 ### The Task was sucessfully completed!!
